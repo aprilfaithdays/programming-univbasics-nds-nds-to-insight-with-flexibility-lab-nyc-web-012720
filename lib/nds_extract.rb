@@ -128,6 +128,8 @@ def movies_with_directors_set(source)
   # end
   # return_array
   
+  return_array = []
+  i = 0
   
   
 end
