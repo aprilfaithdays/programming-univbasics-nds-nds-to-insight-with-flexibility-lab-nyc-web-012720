@@ -132,7 +132,9 @@ def movies_with_directors_set(source)
   i = 0
   while i < source.length do
     hash = source[i]
-    name
+    name = hash[:name]
+    movies = hash[:movies]
+    
     
   end
   return_array
