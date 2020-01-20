@@ -135,6 +135,7 @@ def movies_with_directors_set(source)
     name = hash[:name]
     movies = hash[:movies]
     
+    return_array << movie_with_director_name(name, movies)
     
   end
   return_array
