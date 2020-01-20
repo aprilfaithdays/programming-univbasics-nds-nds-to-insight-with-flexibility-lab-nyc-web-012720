@@ -132,7 +132,7 @@ def movies_with_directors_set(source)
   i = 0
   while i < source.length do
     hash = source[i]
-    
+    name
     
   end
   return_array
